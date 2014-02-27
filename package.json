@@ -1,0 +1,13 @@
+{
+  "name": "array-matrix",
+  "version": "0.0.1",
+  "repository": "segmentio/array-matrix",
+  "description": "create a matrix",
+  "keywords": ["matrix", "array"],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "license": "MIT"
+}
