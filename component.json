@@ -1,0 +1,14 @@
+{
+  "name": "array-matrix",
+  "repo": "segmentio/array-matrix",
+  "description": "matrix(x, y)",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
